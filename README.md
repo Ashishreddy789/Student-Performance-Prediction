@@ -17,3 +17,6 @@ To predict student academic performance (Pass/Fail) based on factors like attend
 
 ## Expected Outcome
 Helps institutions take preventive actions by identifying weak students early through data-driven insights[cite: 1].
+
+Live Demo Link :
+https://student-performance-prediction-j2xkcruacpv2qvkruxjci4.streamlit.app/
